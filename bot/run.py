@@ -25,7 +25,7 @@ except Exception as e:
             'Windows: \n'
             '    set PATH=%PATH%;C:path-to-your-driver \n \n'
             'Linux: \n'
-            '    export PATH=$PATH:/path/toyour/driver/ \n'
+            '    export PATH=$PATH:/path/toyour/driver \n'
         )
     else:
         raise
