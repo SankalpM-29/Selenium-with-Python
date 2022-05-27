@@ -1,0 +1,6 @@
+**/.idea
+**/.vscode
+**/msedgedriver
+**/msedgedriver.exe
+**/chromedriver.exe
+**/__pycache__
